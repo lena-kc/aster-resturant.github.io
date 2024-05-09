@@ -167,7 +167,7 @@ header{
     position: relative;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
     top: 80px;
     padding: 30px 5px;
     border-bottom: 4px solid #ad9f58;
